@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=I'm%20Aidar&fontAlign=80&fontAlignY=40&color=gradient" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=I'm%20Aidar&fontAlign=50&fontAlignY=40&color=gradient" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=20&pause=1000&color=FF0000&background=FFFFFF00&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer;Keep+working+even+it%27s+hard)](https://git.io/typing-svg)
 
@@ -12,9 +12,9 @@
 
 - 🇰🇿 16-year-old entrepreneur from Kazakhstan
 - 🤖 Self-taught AI in a year, still deepening my ML skills
-- 🎬 Founder of **[Clipr](https://github.com/linee64)** — an AI tool for automating video creation
+- 🎬 Founder of **[Clipr](https://github.com/linee64/clipr)** — an AI tool for automating video creation
 - 💻 Full-stack developer & AI engineer
-- 🏆 Hackathon winner, **nFactorial Incubator '26** graduate
+- 🏆 Hackathon winner, **nFactorial Incubator '26** alumni
 - ✨ Future **IOAI** participant, aiming for gold ;)
 
 <br>
@@ -29,10 +29,12 @@
 
 ### AI & ML
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### Frontend
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -47,17 +49,25 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Acer](https://img.shields.io/badge/Acer-83B81A?style=for-the-badge&logo=acer&logoColor=white)
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 
 <br>
 
-## 📊 GitHub Stats
+## 🏆 Trophies
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=linee64&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linee64&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=10B981" width="48%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=linee64&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" width="100%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=linee64&theme=radical&hide_border=true&background=0D1117&ring=10B981&fire=10B981&currStreakLabel=10B981" width="70%"/>
+</div>
+
+<br>
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=linee64&theme=react-dark&hide_border=true&bg_color=0D1117&color=10B981&line=10B981&point=FFFFFF" width="100%"/>
 
 </div>
 
@@ -67,8 +77,9 @@
 
 <div align="center">
 
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/linee64/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://x.com/linee_64"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="mailto:aidaraltynbek02@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
