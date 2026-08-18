@@ -11,11 +11,11 @@
 ## 👋 About me
 
 - 🇰🇿 16-year-old entrepreneur from Kazakhstan
-- 🤖 Self-taught AI in a year, still deepening my ML skills
-- 🎬 Founder of **[Clipr](https://github.com/linee64/clipr)** — an AI tool for automating video creation
+-  Self-taught AI in a year, still deepening my ML skills
+-  Founder of **[Clipr](https://github.com/linee64/clipr)** — an AI tool for automating video creation
 - 💻 Full-stack developer & AI engineer
 - 🏆 Hackathon winner, **nFactorial Incubator '26** alumni
-- ✨ Future **IOAI** participant, aiming for gold ;)
+-  Future **IOAI** participant, aiming for gold ;)
 
 <br>
 
